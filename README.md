@@ -39,14 +39,6 @@
 <td align="left" style="border:1px solid #6A0DAD; padding:10px 20px;"><sub>Data Structures · Algorithms · System Design</sub></td>
 </tr>
 </table>
-
-</div>
-
-<br/><br/>
-
-
-<br/><br/>
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=20&duration=1&pause=999999&color=D4AF37&center=true&vCenter=true&width=340&height=45&repeat=false&lines=BEYOND+THE+CODE" alt="Beyond The Code" />
 
