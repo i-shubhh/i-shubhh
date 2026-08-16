@@ -49,18 +49,6 @@
 
 <br/>
 
-<table width="600">
-<tr>
-<td align="left" style="border:1px solid #6A0DAD; padding:10px 20px;">🛒&nbsp; <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=1&pause=999999&color=B388FF&vCenter=true&width=210&height=30&repeat=false&lines=Supplement+Hub" align="absmiddle" /> <sub>— AI-driven e-commerce store, Razorpay payments</sub></td>
-</tr>
-<tr>
-<td align="left" style="border:1px solid #6A0DAD; padding:10px 20px;">🚔&nbsp; <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=1&pause=999999&color=B388FF&vCenter=true&width=250&height=30&repeat=false&lines=CIPIS" align="absmiddle" /> <sub>— Crime Intelligence Platform for Karnataka Police</sub></td>
-</tr>
-<tr>
-<td align="left" style="border:1px solid #6A0DAD; padding:10px 20px;">📚&nbsp; <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=1&pause=999999&color=B388FF&vCenter=true&width=160&height=30&repeat=false&lines=CS+%26+AI%2FML" align="absmiddle" /> <sub>— B.Tech coursework, algorithms + ML foundations</sub></td>
-</tr>
-</table>
-
 </div>
 
 <br/><br/>
