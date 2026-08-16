@@ -62,27 +62,6 @@
 </div>
 
 <br/><br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=i-shubhh&theme=tokyonight&hide_border=true&background=0d1117&stroke=B388FF&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=B388FF&currStreakNum=ffffff&sideNums=D4AF37&dates=8b949e" />
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-i--shubhh-D4AF37?style=for-the-badge&logo=github&logoColor=000&labelColor=1a0d2e)](https://github.com/i-shubhh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=1a0d2e)](https://www.linkedin.com/in/your-linkedin-here/)
-<img src="https://komarev.com/ghpvc/?username=i-shubhh&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a0d2e" />
-<br/><br/>
-<img src="https://raw.githubusercontent.com/i-shubhh/github-assets/main/footer.gif" alt="Footer GIF" width="100%">
-
-</div>
-<td align="left" style="border:1px solid #30363d; padding:10px 20px;"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=1&pause=999999&color=B983FF&vCenter=true&width=160&height=30&repeat=false&lines=Core+CS" /></td>
-<td align="left" style="border:1px solid #30363d; padding:10px 20px;"><sub>Data Structures · Algorithms · Linear Algebra</sub></td>
-</tr>
-</table>
-
-</div>
-
-<br/><br/>
-
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=i-shubhh&theme=tokyonight&hide_border=true&background=0d1117&stroke=ffffff&ring=B983FF&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=B983FF&dates=8b949e" />
 <br/><br/>
