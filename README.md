@@ -44,12 +44,6 @@
 
 <br/><br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Archivo+Black&size=20&duration=1&pause=999999&color=D4AF37&center=true&vCenter=true&width=340&height=45&repeat=false&lines=CURRENTLY+BUILDING" alt="Currently Building" />
-
-<br/>
-
-</div>
 
 <br/><br/>
 
